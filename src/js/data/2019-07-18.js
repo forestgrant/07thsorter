@@ -87,7 +87,7 @@ dataSet[dataSetVersion].characterData = [
   img: "l8J5Gg9.png",
   opts: {series: ["higu"]}
  },
- {name: "Tetsurou Okonogi",
+ {name: "Tetsurou Okonogi (Higu)",
   img: "KBWgQeg.png",
   opts: {series: ["higu"]}
  },
@@ -253,8 +253,7 @@ dataSet[dataSetVersion].characterData = [
  },
  {name: "Black Battler",
   img: "E6AfIq1.png",
-  opts: { series: ["umi"],
-  extra: true}
+  opts: { series: ["umi"]}
  },
  {name: "Goat-kun",
   img: "6JOnqoW.png",
@@ -334,8 +333,7 @@ dataSet[dataSetVersion].characterData = [
  },
  {name: "Flauros",
   img: "adxAXgc.png",
-  opts: {series: ["umi"],
-  extra: true}
+  opts: {series: ["umi"]}
  },
  {name: "Kiichiro Kimiyoshi",
   img: "0ujP6AI.png",
@@ -397,7 +395,7 @@ dataSet[dataSetVersion].characterData = [
   img: "UulA84j.png",
   opts: { series: ["umi"]}
  },
- {name: "Tetsurou Okonogi",
+ {name: "Tetsurou Okonogi (Umi)",
   img: "eZmDJd7.png",
   opts: { series: ["umi"]}
  },
@@ -540,10 +538,9 @@ dataSet[dataSetVersion].characterData = [
   img: "4NOOxSL.png", 
   opts: { series: ["rgd"]} 
  },
- {name: "Witch of Peace",
+ {name: "Witch of Piece",
   img: "6Nl2HkI.png",
-  opts: { series: ["umi"],
-  extra: true}
+  opts: { series: ["umi"]}
  },
  {name: "Alan Aramaki",
   img: "rBOTz2p.png",
